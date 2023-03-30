@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/newNote"
+        android:title="New note"
+        android:icon="@drawable/ic_create_note_foreground"/>
+    <item
+        android:id="@+id/listNotes"
+        android:title="My notes"
+        android:icon="@drawable/ic_list_notes_foreground"/>
+</menu>
